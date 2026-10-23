@@ -1,0 +1,11 @@
+# Secrets
+.env
+*.env
+*.key
+*.pem
+secrets/
+
+# Editor and OS junk
+*.swp
+.DS_Store
+
