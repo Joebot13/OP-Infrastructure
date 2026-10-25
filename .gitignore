@@ -9,3 +9,8 @@ secrets/
 *.swp
 .DS_Store
 
+*.tar.gz
+AdGuardHome.yaml
+adguard/conf/
+adguard/work/
+.env
